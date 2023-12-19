@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 
 // import modules
 var express = require('express');
